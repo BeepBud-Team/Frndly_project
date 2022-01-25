@@ -12,6 +12,7 @@ function App() {
       <Nav />
       <Header />
       <Features />
+      {/* <Map location={location} zoomLevel={17} /> */}
       <Footer />
     </div>
   );
